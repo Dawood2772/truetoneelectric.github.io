@@ -154,7 +154,7 @@
 		</p>
       </div>
       <div class="col-md-10 mx-auto col-lg-5">
-			<form class="p-4 p-md-5 border rounded-3 bg-light" method="POST" action="db_connect.php" >
+			<form class="p-4 p-md-5 border rounded-3 bg-light" method="POST" action="php-handler.php" >
 				<div class="form-floating mb-3">
 					<input name="name" type="text" class="form-control" id="floatingPassword" placeholder="Enter Your Name" required>
 					<label for="name">Name</label>
